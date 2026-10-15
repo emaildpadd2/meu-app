@@ -1,0 +1,20 @@
+{
+  "appId": "com.bussola.draw",
+  "appName": "Bússola Draw",
+  "webDir": "dist",
+  "backgroundColor": "#0a0d16",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1600,
+      "launchAutoHide": true,
+      "backgroundColor": "#0a0d16",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false
+    }
+  }
+}
